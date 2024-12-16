@@ -42,16 +42,11 @@ This is the frontend for an e-commerce application developed using NodeJS and Re
 
 ## Starting the Frontend Server
 1. Navigate to the frontend directory.
-2. Replace Fetch Command URLs with your backend host URL.
-I. install required dependencies
-```bash
-npm install
-```
-4. Start the development server:
+2. Start the development server:
    ```bash
    npm start
    ```
-5. The frontend will be available at `http://127.0.0.1:3000`.
+3. The frontend will be available at `http://127.0.0.1:3000`.
 
 
 # Frontend Code Explanation
