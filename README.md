@@ -1,3 +1,11 @@
+# CSC 430: Software Engineering Final Project (Backend) README
+
+## Overview
+
+This is the frontend for an e-commerce application developed using NodeJS and React.
+
+## Features
+
 # Installation Steps
 
 ## Installing Node.js
@@ -30,11 +38,16 @@
 ## Starting the Frontend Server
 1. Navigate to the frontend directory.
 2. Replace Fetch Command URLs with your backend host URL.
-3. Start the development server:
+I. install required dependencies
+```bash
+npm install
+```
+4. Start the development server:
    ```bash
    npm start
    ```
-4. The frontend will be available at `http://127.0.0.1:3000`.
+5. The frontend will be available at `http://127.0.0.1:3000`.
+
 
 # Frontend Code Explanation
 
