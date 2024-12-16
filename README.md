@@ -4,7 +4,12 @@
 
 This is the frontend for an e-commerce application developed using NodeJS and React.
 
-## Features
+
+## Key Features
+- Fully responsive design for mobile and desktop.
+- Dynamic product rendering with pagination.
+- Seamless cart synchronization with the backend.
+
 
 # Installation Steps
 
@@ -106,10 +111,5 @@ The app uses the following key routes:
 ## Technologies
 - **Next.js**: For efficient routing, SSR (Server-Side Rendering), and improved page performance.
 - **React Context API**: For state management.
-- **CSS Modules/Tailwind**: (if applicable) For styling components.
-- **Axios/Fetch API**: For API requests.
-
-## Key Features
-- Fully responsive design for mobile and desktop.
-- Dynamic product rendering with pagination.
-- Seamless cart synchronization with the backend.
+- **CSS Modules/Tailwind**: For styling components.
+- **Fetch API**: For API requests.
